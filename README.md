@@ -36,4 +36,4 @@ Repository: https://github.com/pprdxqq/prdxq-concept-hairport-flowers-gateway-ga
 
 Concept preview: https://pprdxqq.github.io/prdxq-concept-hairport-flowers-gateway-gardens/
 
-GitHub Actions deploys the root folder to GitHub Pages on pushes to main. Pages workflow 2 passed on 16 October 2026 for commit 66982fa; final cache-busted mobile-header update is being deployed separately.
+GitHub Actions deploys the root folder to GitHub Pages on pushes to main. Pages workflow 3 passed on 16 October 2026 for commit a74b455. The cache-busted mobile-header update is live at the concept preview.
