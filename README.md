@@ -32,4 +32,8 @@ Open index.html directly or serve this folder with any static HTTP server. The p
 
 ## Deployment
 
-GitHub Actions deploys the root folder to GitHub Pages on pushes to main. The live URLs will be added here after Pages has been enabled and the deployed pages and assets have been verified.
+Repository: https://github.com/pprdxqq/prdxq-concept-hairport-flowers-gateway-gardens
+
+Concept preview: https://pprdxqq.github.io/prdxq-concept-hairport-flowers-gateway-gardens/
+
+GitHub Actions deploys the root folder to GitHub Pages on pushes to main. Pages workflow 2 passed on 16 October 2026 for commit 66982fa; final cache-busted mobile-header update is being deployed separately.
